@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4003d61-0f6e-4a38-9b7a-62221c49522c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/4_1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/dp1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/dp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/dp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Over/5_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Over/ov1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -32,12 +30,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DesignPattern/4_1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="573">
-                <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+              <first_editor relative-caret-position="303">
+                <caret line="105" column="37" lean-forward="true" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Over/5_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,12 +58,17 @@
         <entry file="file://$PROJECT_DIR$/framework/1_1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="13" selection-end-line="87" selection-end-column="88" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Over/ov1.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -72,8 +87,8 @@
         <entry file="file://$PROJECT_DIR$/AOP/3_1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1050">
-                <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="10" lean-forward="true" selection-end-line="76" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -98,6 +113,7 @@
         <option value="$PROJECT_DIR$/AOP/3_1.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/DesignPattern/4_1.md" />
+        <option value="$PROJECT_DIR$/Over/5_1.md" />
       </list>
     </option>
   </component>
@@ -121,12 +137,17 @@
             <path>
               <item name="JuniorPreparing" type="b2602c69:ProjectViewProjectNode" />
               <item name="JuniorPreparing" type="462c0819:PsiDirectoryNode" />
-              <item name="AOP" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JuniorPreparing" type="b2602c69:ProjectViewProjectNode" />
               <item name="JuniorPreparing" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Over" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuniorPreparing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuniorPreparing" type="462c0819:PsiDirectoryNode" />
+              <item name="programtype" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,6 +164,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Over" />
       <recent name="$PROJECT_DIR$/DesignPattern" />
       <recent name="$PROJECT_DIR$/AOP" />
       <recent name="$PROJECT_DIR$/framework" />
@@ -170,12 +192,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585128355646</updated>
-      <workItem from="1585128356816" duration="33156000" />
+      <workItem from="1585128356816" duration="36994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33156000" />
+    <option name="totallyTimeSpent" value="36994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -220,16 +242,6 @@
     <entry file="file://$PROJECT_DIR$/AOP/aop1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AOP/3_1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1050">
-            <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -240,21 +252,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/1_1.md">
+    <entry file="file://$PROJECT_DIR$/DesignPattern/4_1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="13" selection-end-line="87" selection-end-column="88" />
+          <first_editor relative-caret-position="303">
+            <caret line="105" column="37" lean-forward="true" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/4_1.md">
+    <entry file="file://$PROJECT_DIR$/AOP/3_1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="573">
-            <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="10" lean-forward="true" selection-end-line="76" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/1_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Over/ov1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Over/5_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           </first_editor>
           <second_editor />
         </state>
