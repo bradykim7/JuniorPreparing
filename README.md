@@ -6,3 +6,5 @@ Ready to be true.
 2. Programming Paradigm
 3. AOP(Aspect Oriented Programming)
 4. Design Pattern 	
+5. OverLoading & OverRiding
+6. Abstract class & Interface 
