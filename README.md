@@ -8,3 +8,5 @@ Ready to be true.
 4. Design Pattern 	
 5. OverLoading & OverRiding
 6. Abstract class & Interface 
+7. Que & Stack
+8. SQL, DCL, DML, DDL
