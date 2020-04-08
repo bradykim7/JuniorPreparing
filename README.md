@@ -10,3 +10,4 @@ Ready to be true.
 6. Abstract class & Interface 
 7. Que & Stack
 8. SQL, DCL, DML, DDL
+9. Agile, TDD, BDD
