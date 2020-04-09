@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4003d61-0f6e-4a38-9b7a-62221c49522c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agile/ag1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Agile/ag1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Que_Stack/7_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Que_Stack/7_1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +24,32 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Que_Stack/7_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret lean-forward="true" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session_Cookie_Cache/10_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,10 +123,11 @@
         <option value="$PROJECT_DIR$/DesignPattern/4_1.md" />
         <option value="$PROJECT_DIR$/Over/5_1.md" />
         <option value="$PROJECT_DIR$/Abstract_Interface/6_1.md" />
-        <option value="$PROJECT_DIR$/Que_Stack/7_1.md" />
         <option value="$PROJECT_DIR$/SQL/8_1.md" />
         <option value="$PROJECT_DIR$/Agile/README.md" />
+        <option value="$PROJECT_DIR$/Session_Cookie_Cache/10_1.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Que_Stack/7_1.md" />
       </list>
     </option>
   </component>
@@ -127,22 +152,12 @@
             <path>
               <item name="JuniorPreparing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Abstract_Interface" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Que_Stack" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="JuniorPreparing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="AOP" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JuniorPreparing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="framework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JuniorPreparing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="programtype" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Session_Cookie_Cache" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -158,11 +173,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Session_Cookie_Cache" />
       <recent name="$PROJECT_DIR$/Agile" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Over" />
       <recent name="$PROJECT_DIR$/DesignPattern" />
-      <recent name="$PROJECT_DIR$/AOP" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -189,12 +204,12 @@
       <updated>1585128355646</updated>
       <workItem from="1585128356816" duration="44688000" />
       <workItem from="1586149955382" duration="8594000" />
-      <workItem from="1586327419722" duration="7414000" />
+      <workItem from="1586327419722" duration="9788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60696000" />
+    <option name="totallyTimeSpent" value="63070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -281,16 +296,6 @@
     <entry file="file://$PROJECT_DIR$/framework/fr1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Que_Stack/7_1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SQL/8_1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -344,11 +349,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Que_Stack/7_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret lean-forward="true" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_Cookie_Cache/10_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
