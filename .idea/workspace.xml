@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4003d61-0f6e-4a38-9b7a-62221c49522c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/S_A/12_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_A/sa1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_A/sa2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_A/sa3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_A/sa4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S_A/sa5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -23,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,11 +38,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/S_A/12_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="540">
+                <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garbage_Collection/11_1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+              <first_editor relative-caret-position="150">
+                <caret line="29" column="20" selection-end-line="67" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,8 +132,9 @@
         <option value="$PROJECT_DIR$/Agile/README.md" />
         <option value="$PROJECT_DIR$/Session_Cookie_Cache/10_1.md" />
         <option value="$PROJECT_DIR$/Que_Stack/7_1.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Garbage_Collection/11_1.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/S_A/12_1.md" />
       </list>
     </option>
   </component>
@@ -145,7 +164,7 @@
             <path>
               <item name="JuniorPreparing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Que_Stack" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="S_A" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="JuniorPreparing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -166,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/S_A" />
       <recent name="$PROJECT_DIR$/Garbage_Collection" />
       <recent name="$PROJECT_DIR$/Session_Cookie_Cache" />
       <recent name="$PROJECT_DIR$/Agile" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Over" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,12 +217,12 @@
       <workItem from="1585128356816" duration="44688000" />
       <workItem from="1586149955382" duration="8594000" />
       <workItem from="1586327419722" duration="10001000" />
-      <workItem from="1586495339722" duration="4741000" />
+      <workItem from="1586495339722" duration="14299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68024000" />
+    <option name="totallyTimeSpent" value="77582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -291,16 +310,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/framework/README.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Agile/ag1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -362,11 +371,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Garbage_Collection/11_1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <first_editor relative-caret-position="150">
+            <caret line="29" column="20" selection-end-line="67" selection-end-column="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S_A/12_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>

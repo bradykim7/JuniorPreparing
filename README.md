@@ -13,4 +13,5 @@ Ready to be true.
 8. [SQL, DCL, DML, DDL](SQL/8_1.md)
 9. [Agile, TDD, BDD](Agile/9_1.md)
 10. [Session, Cookie, Cache](Session_Cookie_Cache/10_1.md)
-11. [Garbage Collection](Garbage_Collection/11.1md)
+11. [Garbage Collection](Garbage_Collection/11_1.md)
+12. [Synchronous & Asynchronous](S_A/12_1.md)
